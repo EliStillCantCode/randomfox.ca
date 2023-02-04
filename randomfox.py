@@ -6,7 +6,6 @@ from io import BytesIO  # bytes --> compatible images
 root = tkinter.Tk()  # make + customise window
 root.title('[randomfox.ca] Displayer')
 root.iconbitmap('icon.ico')
-
 response = requests.get('https://randomfox.ca/floof/').json()
 imageurl = response['image']
 download = requests.get(imageurl)  # download image data from url
