@@ -6,7 +6,7 @@ from io import BytesIO
 
 # make window - add title and icon
 root = tkinter.Tk()
-root.title('[randomfox.ca] Displayer')
+root.title('Your Random Fox')
 root.iconbitmap('icon.ico')
 
 # API
