@@ -1,0 +1,20 @@
+"tkinter" is used to make windows
+"requests" is used for communication with API's
+"ImageTk" and "Image" are for adding images into a tkinter window
+"BytesIO" converts byte arrays into images
+
+"tkinter.Tk()" makes a window and is assigned to variable "root"
+"root.title()" sets a title for the window
+"root.iconbitmap()" sets a .ico to display to the left of the title
+
+".json()" turns the output of the api response into a dictionary
+"['image']" takes the image url from the dictionary
+download the image data from the url
+".content" isolates the byte array
+
+turn the bytes into an image with BytesIO
+convert the image into an image compatible with tkinter
+add the tk-compatible image to a "label"
+"pack" (add) the label to the window ((display the image))
+
+"root.mainloop()" keeps the window open until closed by the user
