@@ -6,4 +6,3 @@ This program is not finished.
 - Add button to reload image
 - Test on different platforms
 - Release as .exe
-- Sort licensing with RandomFox
