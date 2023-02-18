@@ -5,4 +5,6 @@ This program is not finished.
 # Todo:
 - Add button to reload image
 - Test on different platforms
-- Release as .exe
+- Fix and release as .exe
+
+**I have been unable to successfully convert this to a .exe file, it will convert but not run**
