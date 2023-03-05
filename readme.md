@@ -6,10 +6,8 @@ __SCAN ME TO SEE LATEST RELEASE__ <br>
 I used the api from [randomfox](https://randomfox.ca/) to make this program.
 This program is not finished.
 
-**TO-DO:**
-- Add button to reload image
-- Test on different platforms
-- Fix and release as .exe
+**~~TO-DO:~~ MOVED TO PROJECT**
+
 
 **I have been unable to successfully convert this to a .exe file, it will convert but not run** <br>
 **I have been using auto-py-to-exe and get this error message:** <br>
