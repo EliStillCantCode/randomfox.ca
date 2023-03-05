@@ -1,7 +1,7 @@
 # Welcome to the repo for random foxes
 
 Scan me to see the latest releases:
-<img src="https://raw.githubusercontent.com/EliStillCantCode/randomfox.ca/master/QR.png" width="250" height="250" alt="QR Code to Latest Release">
+<img src="https://raw.githubusercontent.com/EliStillCantCode/randomfox.ca/master/QR.png" width="250" height="250" alt="QR Code to Latest Release" style="float:right">
 
 I used the api from [randomfox](https://randomfox.ca/) to make this program.
 This program is not finished.
